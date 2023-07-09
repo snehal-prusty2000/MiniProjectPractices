@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&family=Varela&display=swap');
+body{
+    background-color: #16171E;
+    color: #ccc;
+    /* font-family:Verdana, Geneva, Tahoma, sans-serif; */
+    font-family: 'Ubuntu', sans-serif;
+}
+.container{
+    background-color: #20212B;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-top: 20%;
+    margin-left: 40%;
+    justify-content: space-around;
+    height: 300px;
+    width: 400px;
+    border-radius: 20px;
+    padding: 10px;
+    font-size: 30px;
+    }
+    .top{
+        color: #67D865;
+        font-size: 15px;
+    }
+    .medium{
+        padding: 30px;
+    }
+    button{
+        width: 100px;
+        height: 30px;
+        border-radius: 15px;
+        background-color: #67D865;
+        font-weight:bolder;
+        font-size: 15px;
+    }

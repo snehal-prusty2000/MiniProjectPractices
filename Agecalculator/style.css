@@ -1,0 +1,31 @@
+body{
+font-size:larger;
+}
+.Calculate{
+     display: flex;
+     flex-direction: column;
+     text-align: center;
+      margin-top: 15%;
+     align-items: center;
+     text-align: center;
+     justify-content: center;
+}
+div>input{
+    height: 40px;
+    width: 450px;
+    font-size: large;
+
+}
+button{
+    background-color: blue;
+    color:#fff;
+    font-size:larger;
+    padding:5px 30px 5px 30px;
+    margin-top: 0px;
+    width: fit-content;
+    border-radius: 5px;
+}
+#result{
+    font-size:50px ;
+    margin:25px 0px 25px 0px;
+}
